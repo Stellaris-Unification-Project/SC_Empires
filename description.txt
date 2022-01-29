@@ -1,0 +1,13 @@
+Starcraft Empires for Stellaris:
+
+- Protoss Empire
+- Terran Dominion
+- Zerg Swarm
+
+The Empires use the supplied animated Alien models or static images. Each empire has it's specific flag as separate artwork. All empires come with a custom AI. If you have the mod activated, all three empires will be in your game - unless you are playing one of them or not enough empire slots are provided.
+
+AI:
+- The Protoss are honourable and reasonable but will freak out if you settle near them
+- The Terran Dominion is very opportunistic and also willing to trade - watch your back
+- The Zerg Swarm is not to reason with: They will come after everyone, weakest empires first
+

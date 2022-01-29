@@ -1,0 +1,17 @@
+﻿l_english:
+
+ name_list_PROTOSS1:0 "Protoss"
+ IS_SPECIES_CLASS_TRIGGER:0 "Is corresponding species class"
+ 
+ FLAG_CATEGORY_protoss:0 "Protoss"
+ 
+ START_SCREEN_PRO:0 "En taro Adun!\n\nAfter having overcome our great civil war, we must set out to the stars. The Khala will guide you in the quest to establish the Protoss in the galaxy.\nWe must protect our homeworld from ignoble species that we will encounter in the void beyond.\n\nHonour the Khala and lead our Templars to victory.\n\nFor Aiur!"
+ 
+ EMPIRE_DESIGN_protoss:0 "Protoss Empire"
+ EMPIRE_DESIGN_protoss_desc:0 "The protoss are an ancient race, and they consider themselves to be the 'firstborn' race of the universe. They were uplifted by the Xel'naga and have a strong warrior culture. This culture lead them into a planet-wide civil war they could overcome with the psionic philosophy 'Khala'. The Khala enables the Protoss to live as a unified communal case-based society. The Protoss are stubbornly conservative while maintaining the warrior culture and honor values of their tribal system."
+
+ PRO:0 "Protoss"
+
+ personality_protoss_empire:0 "Protoss Empire"
+ personality_protoss_empire_desc:0 "The Protoss Empire is a honourable empire that can be reasoned with. They react very aggressive to empires colonizing their sector."
+

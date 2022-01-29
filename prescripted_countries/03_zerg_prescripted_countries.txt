@@ -1,0 +1,65 @@
+zerg= {
+	name = "Zerg Swarm"
+	spawn_enabled = always # yes / no / always
+	
+	name_list = "ART2"
+	ship_prefix = "Brood"
+	
+	species_name = "Zerg"
+	species_plural = "Zerg"
+	species_adjective = "Zerg"
+	species_class = "ART"
+	trait = "trait_rapid_breeders"
+	trait = "trait_adaptive"
+	trait = "trait_repugnant"
+	portrait = "zerg"
+	adjective = "Zerg"
+	
+	government = "despotic_empire"
+	ethic = "ethic_fanatic_collectivist"
+	ethic = "ethic_xenophobe"
+
+	flags = { zergstart_1 custom_start_screen zerg_swarm }
+	
+	weapon = "tech_mass_drivers_1"
+	ftl = wormhole
+	
+	planet_name = "Zerus"
+	planet_class = "pc_tropical"
+	system_name = "Zerus"
+
+        graphical_culture = "molluscoid_01"
+        city_graphical_culture = "arthropoid_01"
+	
+	empire_flag = {
+		icon= {
+			category = "starcraft"
+			file = "zerg_flag.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"dark_purple"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	#leader = {
+	#	name = "Dolores Muwanga"
+	#	class = ruler
+	#	portrait = "human_female_05"
+	#	experience = 1200.0
+	#}
+	
+	ruler = {
+		name = "Overmind"
+		gender = male
+		portrait = "zerg_hydralisk"
+		texture = 0
+		# hair = 0
+		clothes = 0
+	}
+}

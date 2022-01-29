@@ -1,0 +1,16 @@
+﻿l_english:
+
+ name_list_DOMINION1:0 "Human"
+ IS_SPECIES_CLASS_TRIGGER:0 "Is corresponding species class"
+ 
+ FLAG_CATEGORY_dominion:0 "Human"
+ 
+ START_SCREEN_DOM:0 "'The time has come, my fellow Terrans, to rally to a new banner. In unity lies strength; already many of the dissident factions have joined us. Out of the many, we shall forge an indivisible whole, capitulating only to a single throne. And from that throne, I shall watch over you! From this day forward, let no human make war upon any other human. Let no Terran agency conspire against this new beginning. And let no man consort with alien powers. And to all the enemies of humanity, seek not to bar our way, for we shall win through, no matter the cost!'\n\n- Arcturus Mengsk"
+ 
+ EMPIRE_DESIGN_dominion:0 "Terran Dominion"
+ EMPIRE_DESIGN_dominion_desc:0 "As planet after planet appealed to the Sons of Korhal for aid after the collapse of the Terran Confederacy, Arcturus Mengsk announced that a new government was necessary to protect these worlds. Promising victory over the Zerg and the Protoss, he formed the Dominion and crowned himself emperor. One of his first decrees was to begin reconstruction of Korhal, electing to make it the throne world of the Dominion."
+
+ DOM:0 "Human"
+
+ personality_terran_dominion:0 "Terran Dominion"
+ personality_terran_dominion_desc:0 "The Terran Dominion is a very egoistic, agressive and opportunistic empire. They are willing to tradde but watch your back!"

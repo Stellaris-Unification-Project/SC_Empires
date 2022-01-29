@@ -1,0 +1,64 @@
+dominion = {
+	name = "Terran Dominion"
+	spawn_enabled = always # yes / no / always
+	
+	name_list = "Human"
+	ship_prefix = "Dominion"
+	
+	species_name = "Human"
+	species_plural = "Human"
+	species_adjective = "Human"
+	species_class = "MAM"
+	trait = "trait_industrious"
+	portrait = "dominion"
+	adjective = "Human"
+	
+	government = "despotic_empire"
+	ethic = "ethic_xenophobe"
+	ethic = "ethic_individualist"
+	ethic = "ethic_militarist"
+
+	flags = { dominionstart_1 custom_start_screen terran_dominion }
+	
+	weapon = "tech_missiles_1"
+	ftl = warp
+	
+	planet_name = "Korhal"
+	planet_class = "pc_continental"
+	system_name = "Korhal"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon= {
+			category = "starcraft"
+			file = "dominion_flag.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"red"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	#leader = {
+	#	name = "Dolores Muwanga"
+	#	class = ruler
+	#	portrait = "human_female_05"
+	#	experience = 1200.0
+	#}
+	
+	ruler = {
+		name = "Arcturus Mengsk"
+		gender = male
+		portrait = "dominion_mengsk"
+		texture = 0
+		#hair = 7
+		#clothes = 2
+	}
+}

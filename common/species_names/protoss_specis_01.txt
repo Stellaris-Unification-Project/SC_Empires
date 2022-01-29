@@ -1,0 +1,11 @@
+# Generated species derive their names from here
+
+PRO = {
+	cylons = {
+		name = "Protoss"
+		plural = "Protoss"
+		home_planet = "Aiur"
+		home_system = "Golden Orb"
+		name_list = "PROTOSS1"
+	}
+}

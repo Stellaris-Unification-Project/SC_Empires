@@ -1,0 +1,17 @@
+﻿l_english:
+
+ name_list_ZERG1:0 "Zerg"
+ IS_SPECIES_CLASS_TRIGGER:0 "Is corresponding species class"
+ 
+ FLAG_CATEGORY_zerg:0 "Zerg"
+ 
+ START_SCREEN_PRO:0 "For the Swarm!"
+ 
+ EMPIRE_DESIGN_zerg:0 "Zerg Swarm"
+ EMPIRE_DESIGN_zerg_desc:0 "The Zerg Swarm is a race of xenomorphic 'hyper-evolutionary' superorganisms; unlike other races the Zerg do not build tools but 'force-evolve' genetic traits by direction mutation in order to match such technology. Operating as a hive mind-linked 'chain of command', the Zerg strive for genetic perfection by assimilating the unique genetic adaptations of worthy races into their own, creating numerous different strains of Zerg. Despite being notoriously cunning and ruthlessly efficient, the majority of Zerg species have low intelligence; becoming mindless beasts if not connected to a hive-cluster or a command entity."
+
+ ZERG:0 "Zerg"
+
+ personality_zerg_swarm:0 "Zerg Swarm"
+ personality_zerg_swarm_desc:0 "The Zerg Swarm cannot be reasoned with. They conquer and assimilate everything in their way."
+

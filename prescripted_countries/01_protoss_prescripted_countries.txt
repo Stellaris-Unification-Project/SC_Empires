@@ -1,0 +1,68 @@
+protoss = {
+	name = "Protoss Empire"
+	spawn_enabled = always # yes / no / always
+	
+	name_list = "PROTOSS1"
+	ship_prefix = "Protoss"
+	
+	species_name = "Protoss"
+	species_plural = "Protoss"
+	species_adjective = "Protoss"
+	species_class = "REP"
+	trait = "trait_enduring"
+	trait = "trait_intelligent"
+	trait = "trait_slow_breeders"
+	# portrait = "rep2"
+	portrait = "protoss"
+	adjective = "Protoss"
+	
+	government = "theocratic_oligarchy"
+	ethic = "ethic_spiritualist"
+	ethic = "ethic_collectivist"
+	ethic = "ethic_militarist"
+
+	flags = { protossstart_1 custom_start_screen protoss_empire }
+	
+	weapon = "tech_lasers_1"
+	ftl = warp
+	
+	planet_name = "Aiur"
+	planet_class = "pc_tropical"
+	system_name = "Golden Orb"
+	
+	graphical_culture = "avian_01"
+	city_graphical_culture = "fungoid_01"
+	
+	empire_flag = {
+		icon= {
+			category = "starcraft"
+			file = "protoss_flag.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"dark_blue"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	#leader = {
+	#	name = "Dolores Muwanga"
+	#	class = ruler
+	#	portrait = "human_female_05"
+	#	experience = 1200.0
+	#}
+	
+	ruler = {
+		name = "Kortanul"
+		gender = male
+		portrait = "protoss_tassadar"
+		texture = 0
+		#hair = 0
+		#clothes = 2
+		clothes = 0
+	}
+}
