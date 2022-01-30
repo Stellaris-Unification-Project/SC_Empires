@@ -5,4 +5,4 @@ tags={
 }
 picture="starcraft.png"
 remote_file_id="686525463"
-supported_version="1.2.0"
+supported_version="3.2.2"
